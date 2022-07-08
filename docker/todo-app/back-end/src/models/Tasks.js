@@ -19,7 +19,7 @@ const addTask = async (description) => {
     description,
     check: false
   };
-
+//
   const tasks = await getAllTasks();
   tasks.push(newTask);
 
