@@ -12,7 +12,7 @@ Projeto onde deveria ser realizado os comandos do docker, além de seguir os seg
 Não foi preciso criar a aplicação do Todo-app, apenas configurar o Docker, Dockerfile e Docker Compose, e também os comandos de terminal da pasta docker-commands.
 
 ---
-## Técnologias usadas
+## Tecnologias utilizadas
  - Docker
  - Dockerfile
  - Docker Compose
