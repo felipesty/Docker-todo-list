@@ -1,16 +1,18 @@
-# 🚧 README em construção 🚧
+# Projeto Docker Todo List
+Projeto onde deveria ser realizado os comandos do docker, além de seguir os seguintes passos.
+ - Comandos feitos no terminal
+ - Gerar uma build no Dockerfile para:
+    - Back-end
+    - Front-end
+    - Testes
+ - Orquestrar tudo usando o Docker-compose
 
-<!-- Olá, Tryber!
+---
+## Observação
+Não foi preciso criar a aplicação do Todo-app, apenas configurar o Docker, Dockerfile e Docker Compose, e também os comandos de terminal da pasta docker-commands.
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
-
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+---
+## Técnologias usadas
+ - Docker
+ - Dockerfile
+ - Docker Compose
